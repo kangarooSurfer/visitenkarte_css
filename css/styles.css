@@ -1,0 +1,83 @@
+* {
+  margin:0;
+}
+
+
+body {
+  line-height: 1.5;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100%;
+  text-align: center;
+}
+
+.ersteBox {
+  /*background-color: #efefef;*/
+
+  height: 700px;
+
+}
+
+.zweiteBox {
+  margin: 20px auto;
+  text-align: left;
+  width: 60%;
+}
+
+.inhalt {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  margin: 0 auto;
+  width: 450px;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+h1 {
+  font-family: 'Sacramento';
+  font-size: 5rem;
+  padding: 100px 0 0 0;
+  margin: 0 0 40px 0;
+}
+
+h3 {
+  margin: 50px 0 20px 0;
+}
+
+
+hr {
+  width: 200px;
+  margin: 20px auto;
+  border: solid 1px orange;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+#ichBild {
+  width: 100px;
+  float: left;
+
+}
+
+#umtopfenBild {
+  width: 70px;
+  float: right;
+
+}
+
+p {
+  margin-bottom: 60px;
+}
+
+#hobbies {
+  margin-top: 50px;
+  }
